@@ -40,3 +40,6 @@ storybook-static/
 .scannerwork
 /sonar-scanner
 sonar-project.properties
+
+
+/.svelte-kit
