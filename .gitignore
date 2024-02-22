@@ -29,7 +29,7 @@ storybook-static/
 *.njsproj
 *.sln
 *.sw?
-misc.xml
+.idea/misc.xml
 modules.xml
 recetas.iml
 vcs.xml
