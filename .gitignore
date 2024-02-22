@@ -29,10 +29,10 @@ storybook-static/
 *.njsproj
 *.sln
 *.sw?
-.idea/misc.xml
-modules.xml
-recetas.iml
-vcs.xml
+.idea/*
+/modules.xml
+/recetas.iml
+/vcs.xml
 
 
 # SonarQube
